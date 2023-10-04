@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://theuselessweb.com/sites/sitemap.xml
